@@ -1152,11 +1152,11 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 2px;
-  color: #cccccc;
+  color: #000;
 }
 
 #fh5co-started {
-  background: rgba(42, 51, 86, 0.9);
+  background: rgba(222, 29, 29, 0.338);
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
