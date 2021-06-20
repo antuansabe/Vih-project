@@ -8,7 +8,6 @@ The general purpose of this project is to provide an NGO with a platform where t
 
 **Client:** SaaS, Javascript, HTML5
 
-**Server:** Django
 
 ## Authors
 
