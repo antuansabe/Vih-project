@@ -12,7 +12,7 @@ The general purpose of this project is to provide an NGO with a platform where t
 
 ## Authors
 
-- Antonio Dromundo | [@Andtooan](https://github.com/Bostjanrivera)
+- Antonio Dromundo | [@antuansabe](https://github.com/Bostjanrivera)
 
 ## Lessons Learned
 
